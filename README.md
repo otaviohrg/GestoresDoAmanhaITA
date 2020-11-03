@@ -1,2 +1,0 @@
-# GestoresDoAmanhaITA
-Nosso Projeto
